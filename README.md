@@ -12,19 +12,7 @@
 
 ### 🧠 About me
 
-```yaml
-name: Clara Rodriguez Acevedo
-based_in: Buenos Aires, Argentina 🇦🇷
-studying: Data Science @ ITBA
-working_on: Backend Development @ IOL Inversiones (Labs Team)
-community: Computer Society ITBA — member since 2024
-role: Head of the IT Department
-spotted_at:
-  - HackITBA
-  - QuantumJam
-  - Nerdearla
-  - "...basically any tech event in Buenos Aires"
-```
+I'm a Data Science student at ITBA, based in Buenos Aires, Argentina. I work as a Backend Developer on the Labs Team at IOL Inversiones. I've been a member of Computer Society ITBA since 2024, where I'm now Head of the IT Department. You'll usually find me at HackITBA, QuantumJam, Nerdearla, or pretty much any tech event happening in Buenos Aires.
 
 <br/>
 
@@ -44,7 +32,7 @@ spotted_at:
 
 ### 📍 Catch me at
 
-`HackITBA` · `QuantumJam` · `Nerdearla` · `Computer Society ITBA events`
+`HackITBA`  `QuantumJam`  `Nerdearla`  `Computer Society ITBA events`
 
 </div>
 
