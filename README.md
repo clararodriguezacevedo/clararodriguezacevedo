@@ -3,7 +3,7 @@
 # Hi, I'm Clara 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B4A&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+ITBA;Software+Developer+%40+IOL+Inversiones+Labs;Head+of+IT+%40+Computer+Society+ITBA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B4A&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+ITBA;Software+Developer+%40+IOL+Inversiones;Head+of+IT+%40+Computer+Society+ITBA" alt="Typing SVG" />
 </a>
 
 </div>
