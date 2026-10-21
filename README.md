@@ -3,7 +3,7 @@
 # Hi, I'm Clara 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B4A&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+ITBA;Backend+Developer+%40+IOL+Inversiones+Labs;Head+of+IT+%40+Computer+Society+ITBA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B4A&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+ITBA;Software+Developer+%40+IOL+Inversiones+Labs;Head+of+IT+%40+Computer+Society+ITBA" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ### 🧠 About me
 
-I'm a Data Science student at ITBA, based in Buenos Aires, Argentina. I work as a Backend Developer on the Labs Team at IOL Inversiones. I've been a member of Computer Society ITBA since 2024, where I'm now Head of the IT Department. You'll usually find me at HackITBA, QuantumJam, Nerdearla, or pretty much any tech event happening in Buenos Aires.
+I'm a Data Science student at ITBA, based in Buenos Aires, Argentina. I work as a Software Developer on the Labs Team at IOL Inversiones. I've been a member of Computer Society ITBA since 2024, where I'm now Head of the IT Department. You may find me at HackITBA, QuantumJam, Nerdearla, or pretty much any tech event happening in Buenos Aires.
 
 <br/>
 
